@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Raleway:700i');
+
+
+#team {
+    padding: 50px;
+    font-family: 'Anton',sans-serif;
+}
+.p{
+    padding: 40px;
+}
+-p p{
+
+}
+.jumbotron{
+    background-color: #ddd;
+    height:650px;
+    text-align: center;
+    box-shadow: 0 2px 2px #ddd;
+    background: url('https://images.unsplash.com/photo-1428280047984-b1e0c0cfe2b7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c2525cc22be373b860f01245acbc0b9e&auto=format&fit=crop&w=1500&q=80');
+}
+.jumbotron h1 {
+    text-align: center;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    font-family: ('Raleway', sans-serif');
+
+}
